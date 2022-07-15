@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Mithrandir or Jekyll
+it really quite depends on whom you ask. 
+I’m currently learning both embedded and web development in Rust. I have some experience with c++, but mostly I tend to mess around and do nothing productive.
+Pronouns: He/Him
+
+`hi.bf`
+```brainfuck
+>>+++[<+++>-]<+[>+++>>+++[<+++>-]<+[<]>-]<+++[>+++<-]>+[>++++<-]>++.>+.>+++
+[<++>-]<+..+++.<<<+++[>+++<-]>+[>----<-]>.>[>+>+<<-]++++[>++<-]>.>.+++.>++[
+<--->-]<.>++[<---->-]<.<<<+.
+```
 
 <!--
 **dragonracer9/dragonracer9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
