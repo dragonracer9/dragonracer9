@@ -3,7 +3,7 @@ it really quite depends on whom you ask.\
 I’m currently learning both embedded and web development in Rust. I have some experience with c++, but mostly I tend to mess around and do nothing productive.
 Pronouns: He/Him
 
-$\mathbb{TRIVIAL: } \sin(x) = \frac{e^{ix}-e^{-ix}}{2i} = x\prod_{i=0}^{\infty} (1-\frac{x^2}{2\pi^2})$
+$\mathbb{TRIVIAL: } \sin(x) = \frac{e^{ix}-e^{-ix}}{2i} = x \prod_i^{\infty} (1-\frac{x^2}{2\pi^2})$
 
 `hi`
 ```brainfuck
