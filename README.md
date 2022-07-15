@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mithrandir or Jekyll
+### Hi there 👋, I'm Mithrandir (or Jekyll)
 it really quite depends on whom you ask.\
 I’m currently learning both embedded and web development in Rust. I have some experience with c++, but mostly I tend to mess around and do nothing productive.
 Pronouns: He/Him
