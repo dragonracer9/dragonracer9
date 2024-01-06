@@ -1,10 +1,11 @@
 ### Hi there 👋, I'm Mithrandir
-I’m currently learning both embedded systems development and web development in Rust. I have some experience with c++, but mostly I tend to mess around and do nothing productive.
+- I’m currently learning both embedded systems development and web development in Rust.
+- I am working on visually tracking a group of drones using IR cameras and using the spatial data to execute planned trajectories.
+- Aside from this, I am working on porting Doom (the original) to STM32-L47 with a 3x4 pixel LED matrix as the world's most unplayable game.
 
-Weierstrass factorisation is great:
+- ⚡ Fun fact: Weierstrass factorisation is great:
 $\sin(x) = \frac{e^{ix}-e^{-ix}}{2i} = \sum \frac{(-1)^n}{(2n+1)!} x^{2n+1} = x \prod (1-\frac{4x^2}{n^2\pi^2})$
 
-`hello world` (brainf**k)
 ```brainfuck
 >>+++[<+++>-]<+[>+++>>+++[<+++>-]<+[<]>-]<+++[>+++<-]>+[>++++<-]>++.>+.>+++
 [<++>-]<+..+++.<<<+++[>+++<-]>+[>----<-]>.>[>+>+<<-]++++[>++<-]>.>.+++.>++[
