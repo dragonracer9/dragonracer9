@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Mithrandir
-- I’m currently learning both embedded systems development and web development in Rust.
+- I’m currently learning both embedded systems development (in C and hopefully Rust soon) and web development in Rust.
 - I am working on visually tracking a group of drones using IR cameras and using the spatial data to execute planned trajectories.
 - Aside from this, I am working on porting Doom (the original) to STM32-L47 with a 3x4 pixel LED matrix as the world's most unplayable game.
 
